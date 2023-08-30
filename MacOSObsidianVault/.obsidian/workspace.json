@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "eeec138df4fded5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c223ec4778e3703f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd577286aeda83e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001日志/MacOS Obsidian 笔记.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b80bfd2ecd3357d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af88d209de6b50ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa895f7f4a5dc026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afbf5fe3bbed1840",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c914c76f53428172",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "279eec1575c222b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b853084c2ff36d7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044fba5b759ea216",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001日志/MacOS Obsidian 笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c330080dcabcc782",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001日志/MacOS Obsidian 笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ee6c17297d5f74b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35c29447dd2aeac5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001日志/MacOS Obsidian 笔记.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fa895f7f4a5dc026",
+  "lastOpenFiles": [
+    "001日志",
+    "001日志/MacOS Obsidian 笔记.md"
+  ]
+}
