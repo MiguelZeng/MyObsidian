@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "001日志/MacOS Obsidian 笔记.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fa895f7f4a5dc026",
+  "active": "cd577286aeda83e1",
   "lastOpenFiles": [
     "001日志",
     "001日志/MacOS Obsidian 笔记.md"

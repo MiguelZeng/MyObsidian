@@ -1,2 +1,4 @@
 
 今天第一次在Mac上使用Obsidian软件做笔记
+
+现在测试一下git是否k y
